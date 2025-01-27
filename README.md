@@ -1,3 +1,4 @@
+## Paulo Bustamante, Diego Espinosa y Javier Viñan 
 # Trabajo clases 07
 ## Segundo bimestre
 
